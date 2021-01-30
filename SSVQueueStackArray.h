@@ -4,6 +4,9 @@ Author Serge Skorodinsky
 1/24/2021
 Inspired by library from https://codebender.cc/example/QueueArray/ManageString#ManageString.ino
                 and from https://playground.arduino.cc/Code/QueueArray/
+				
+Home: https://github.com/SergeSkor/SSVQueueStackArray				
+
 */
 
 #ifndef _SSVQUEUESTACKARRAY_H
